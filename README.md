@@ -1,4 +1,4 @@
 - 👋 Hi, welcome to my GitHub page. I'm @felipe100pipe, but mostly I go by Felipe or Pipe. 
 - 👀 I’m interested in education, Puerto Rico, development, and truly, anything to do with economics, and philosophy. 
 - 🌱 I’m currently learning R, Python, and economics research. 
-- 📫 You can typically reach me through LinkedIn ([Felipe Grosso](https://www.linkedin.com/in/felipe-grosso/)), Twitter ([@feligrosso](https://twitter.com/feligrosso)), or email (pipegrosso10@gmail.com). If I can be of any help with anything, do not hesistate to contact me. 
+- 📫 You can reach me through LinkedIn ([Felipe Grosso](https://www.linkedin.com/in/felipe-grosso/)), Twitter ([@feligrosso](https://twitter.com/feligrosso)), or email (pipegrosso10@gmail.com). If I can be of any help with anything, do not hesistate to contact me. 
